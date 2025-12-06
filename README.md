@@ -157,4 +157,5 @@ Algunos ejemplos de preguntas que el dashboard ayuda a responder:
 
 ---
 
-![Dashboard Mercado Laboral IT](./ruta/a/la/imagen.png)
+![Dashboard Mercado Laboral IT](./image.jpg)
+
